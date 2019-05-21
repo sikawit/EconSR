@@ -18,7 +18,7 @@ My codes are written in Python 3. To run my files, I recommend to use Jupyter No
 
 ## Usage
 
-This project made of 3 parts:
+This project made of the following parts:
 
 - Jobtopgun Data are scraped by `Part1_Collecting_URL_JTG.ipynb` for scarping url in JTG and `Part2_Scraping_URL_JTG.ipynb` for scraping each page in Jobtopgun.
 - Adecco Data are scraped by `Scraping_Adecco.ipynb` and cleaned by `Cleaning_Adecco`
