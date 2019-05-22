@@ -20,7 +20,7 @@ My codes are written in Python 3. To run my files, I recommend to use Jupyter No
 
 This project made of the following parts:
 
-- Jobtopgun Data are scraped by `Part1_Collecting_URL_JTG.ipynb` for scarping url in JTG and `Part2_Scraping_URL_JTG.ipynb` for scraping each page in Jobtopgun.
+- Jobtopgun Data are scraped by `Part1_Collecting_URL_JTG.ipynb` for scarping url in Jobtopgun and `Part2_Scraping_URL_JTG.ipynb` for scraping each page in Jobtopgun.
 - Adecco Data are scraped by `Scraping_Adecco.ipynb` and cleaned by `Cleaning_Adecco`.
 - Translating, due to the limitation of Google Translate API, I use `googletranslate` function on Google Sheets to translate Thai into English. This process not in the Python script.
 - Analysing, all analysing parts are in `Analysing.ipynb`.
